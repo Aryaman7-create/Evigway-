@@ -1,0 +1,12 @@
+{
+    "name": "node-express-mongoose-crud",
+    "version": "1.0.0",
+    "description": "A Node.js server with REST APIs for CRUD operations",
+    "main": "server.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^6.0.12",
+      "body-parser": "^1.19.0"
+    }
+  }
+  
